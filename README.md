@@ -13,7 +13,8 @@ Unofficial implementation of Continual-Learning-for-Anomaly-Detection-with-Varia
 http://cedro3.com/ai/keras-autoencoder-anomaly/
 
 VAEモデル部分
+https://github.com/Jackson-Kang/Pytorch-VAE-tutorial
 
 論文自体
-[[1]F. Wiewel, B. Yang, Continual learning for anomaly detection with variational autoencoder, in: ICASSP 2019, pp. 3837–3841](https://ieeexplore.ieee.org/document/8682702)
+[F. Wiewel, B. Yang, Continual learning for anomaly detection with variational autoencoder, in: ICASSP 2019, pp. 3837–3841](https://ieeexplore.ieee.org/document/8682702)
 
