@@ -1,6 +1,6 @@
 # Continual-Learning-for-Anomaly-Detection-with-Variational-Autoencoder
 
-https://qiita.com/satolab/items/
+https://qiita.com/satolab/items/b87a5fce10dd5575ae5a
 
 Powered by [satolab](https://qiita.com/satolab)
 
